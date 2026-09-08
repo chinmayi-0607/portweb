@@ -1,0 +1,6 @@
+{
+  "name": "Chinmayi K Portfolio",
+  "description": "Portfolio of Chinmayi K, an undergraduate AI & Data Science student at REVA University.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
